@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "csc4360-activity14-mo-6f0a4",
+      "projectNumber": "1071629030951",
+      "displayName": "csc4360-activity14-mo",
+      "name": "projects/csc4360-activity14-mo-6f0a4",
+      "resources": {
+        "hostingSite": "csc4360-activity14-mo-6f0a4"
+      },
+      "state": "ACTIVE",
+      "labels": {
+        "firebase": "enabled"
+      },
+      "etag": "1_d00d2140-e1fa-4299-a304-dcd93349f4a6"
+    }
+  ]
+}
